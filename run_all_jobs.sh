@@ -6,7 +6,6 @@ job_names=(
     "MonthlySalesPerProduct"
     "MonthlyTrends"
     "ProductPerformanceBySeason"
-    "ProductSalesDistribution"
     "TopSellingProducts"
 )
 
